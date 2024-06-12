@@ -1,0 +1,1 @@
+{"jsonContent":{"test_view_complex_key":{"map":"map=function(doc){if(doc.java_type==\"org.taktik.icure.entities.Device\"&&!doc.deleted&&!!doc.externalId){emit([doc.externalId,doc._id],null)}};","reduce":null}},"signature":"UQHGIVk4mIlfviOyN6sQIlaKd8Z+xmGU8Dwy7eKmlYdLsHWpBofsFfO/Cd5f2n2OTq3BVpxO1Vil1bU2u23UBw=="}
